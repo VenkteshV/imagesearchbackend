@@ -27,7 +27,7 @@ httplib2==0.10.3
 idna==2.0
 ipaddress==1.0.16
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 jsonschema==2.5.1
 Keras==1.2.0
 lz4==0.7.0
