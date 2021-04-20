@@ -1,7 +1,7 @@
 adium-theme-ubuntu==0.3.4
 argh==0.26.2
 attrs==15.2.0
-autobahn==0.10.3
+autobahn==20.12.3
 backports.ssl-match-hostname==3.4.0.2
 chardet==2.3.0
 click==6.7
